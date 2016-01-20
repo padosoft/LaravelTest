@@ -14,6 +14,10 @@
 
     },
     "autoload": {
+		"classmap": [
+				"tests/TestBase.php",
+				"tests/MailTestCase.php"
+			],
         "psr-4": {
             "Padosoft\\@@@namespace\\": "src"
         }
