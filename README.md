@@ -1,4 +1,5 @@
-# LARAVEL COMPOSER SECURITY COMMAND
+# laravel5.2.x-package-skeleton
+Padosoft Laravel 5.2.x Packages Skeleton
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
@@ -8,7 +9,6 @@
 [![Total Downloads][ico-downloads]][link-downloads]
 [![SensioLabsInsight][ico-sensiolab]][link-sensiolab]
 
-This is a Laravel 5.1.x/5.2.x package that provides an artisan command for testing security vulnerabilties into your composer.lock files.
 
 
 Table of Contents
