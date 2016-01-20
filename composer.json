@@ -1,0 +1,26 @@
+{
+    "name": "padosoft/@@@package",
+    "description": "@@@description",
+    "keywords": [@@@keywords],
+    "license": "MIT",
+    "type": "project",
+	"authors": [
+        {
+            "name": "padosoft",
+            "email": "helpdesk@padosoft.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Padosoft\\@@@namespace\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+                "Padosoft\\@@@namespace\\Test\\": "tests"
+        }
+    }
+}
