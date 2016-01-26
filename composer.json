@@ -11,7 +11,9 @@
         }
     ],
     "require": {
-        "padosoft/test": "dev-master"
+        "padosoft/test": "dev-master",
+        "padosoft/tessera-sanitaria": "dev-master",
+
     },
     "autoload": {
 		"classmap": [
