@@ -1,5 +1,5 @@
 {
-    "name": "padosoft/laraveltest",
+    "name": "padosoft/laravel-test",
     "description": "laravel test",
     "keywords": ["laravel" , "test"],
     "license": "MIT",
@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-
+        "padosoft/test": "dev-master"
 
     },
     "autoload": {
