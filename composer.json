@@ -26,10 +26,10 @@
                 "Padosoft\\LaravelTest\\Test\\": "tests"
         }
     },
-    "repositories": [
-        {
+    "repositories": {
+        "padosoft/test":{
             "type":"git",
             "url":"https://github.com/padosoft/Test"
         }
-    ]
+    }
 }
