@@ -25,5 +25,21 @@
         "psr-4": {
                 "Padosoft\\LaravelTest\\Test\\": "tests"
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "package",
+            "package": [
+                {
+                    "name": "padosoft/test",
+                    "version": "dev-master",
+                    "source": {
+                        "url": "https://github.com/padosoft/Test",
+                        "type": "git",
+                        "reference": "origin/master"
+                    }
+                }
+            ]
+        }
+    ]
 }
