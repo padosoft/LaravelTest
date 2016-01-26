@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-
+        "padosoft/test": "dev-master"
     },
     "autoload": {
 		"classmap": [
@@ -26,10 +26,10 @@
                 "Padosoft\\LaravelTest\\Test\\": "tests"
         }
     },
-    "repositories": {
-        "padosoft": {
-            "type": "git",
-            "url": "https://github.com/padosoft/Test"
+    "repositories": [
+        {
+            "type":"git",
+            "url":"https://github.com/padosoft/Test"
         }
-    }
+    ]
 }
