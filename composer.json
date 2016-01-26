@@ -29,19 +29,9 @@
         }
     },
     "repositories": [
-        {
-            "type": "package",
-            "package": [
-                {
-                    "name": "padosoft/test",
-                    "version": "dev-master",
-                    "source": {
-                        "url": "https://github.com/padosoft/Test",
-                        "type": "git",
-                        "reference": "origin/master"
-                    }
-                }
-            ]
-        }
+
+        { "type": "vcs", "url": "https://github.com/padosoft/Test", "meta-repository": "padosoft", "priority" : 1}
+
+
     ]
 }
