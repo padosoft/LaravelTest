@@ -1,0 +1,35 @@
+{
+    "name": "padosoft/laraveltest",
+    "description": "laravel test",
+    "keywords": ["laravel" , "test"],
+    "license": "MIT",
+    "type": "project",
+	"authors": [
+        {
+            "name": "padosoft",
+            "email": "helpdesk@padosoft.com"
+        }
+    ],
+    "require": {
+        "padosoft/test": "dev-master"
+    },
+    "autoload": {
+		"classmap": [
+
+			],
+        "psr-4": {
+            "Padosoft\\LaravelTest\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+                "Padosoft\\LaravelTest\\Test\\": "tests"
+        }
+    },
+    "repositories": {
+        "padosoft": {
+            "type": "git",
+            "url": "https://github.com/padosoft/test"
+        }
+    }
+}
