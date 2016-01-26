@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "padosoft/test": "dev-master"
+
     },
     "autoload": {
 		"classmap": [
@@ -29,7 +29,7 @@
     "repositories": {
         "padosoft": {
             "type": "git",
-            "url": "https://github.com/padosoft/test"
+            "url": "https://github.com/padosoft/Test"
         }
     }
 }
