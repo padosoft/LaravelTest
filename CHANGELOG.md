@@ -1,8 +1,8 @@
 # Changelog
 
-All Notable changes to `@@@package` will be documented in this file
+All Notable changes to `laravel-test` will be documented in this file
 
-## 1.0.0 - @@@date
+## 1.1.2 - 2016-02-02
 
 ### Added
-- Initial release
+- Initial stable release
