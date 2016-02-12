@@ -81,12 +81,12 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/padosoft/laravel-test.svg?style=flat-square
 [ico-code-quality]: https://img.shields.io/scrutinizer/g/padosoft/laravel-test.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/padosoft/laravel-test.svg?style=flat-square
-[ico-sensiolab]: https://insight.sensiolabs.com/projects/******/small.png
+[ico-sensiolab]: https://insight.sensiolabs.com/projects/@@@sensiolabs/small.png
 
 [link-packagist]: https://packagist.org/packages/padosoft/laravel-test
 [link-travis]: https://travis-ci.org/padosoft/laravel-test
 [link-scrutinizer]: https://scrutinizer-ci.com/g/padosoft/laravel-test/code-structure
 [link-code-quality]: https://scrutinizer-ci.com/g/padosoft/laravel-test
 [link-downloads]: https://packagist.org/packages/padosoft/laravel-test
-[link-sensiolab]: https://insight.sensiolabs.com/projects/******
+[link-sensiolab]: https://insight.sensiolabs.com/projects/@@@sensiolabs
 [link-author]: https://github.com/lopadova
