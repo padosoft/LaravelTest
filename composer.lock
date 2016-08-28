@@ -276,16 +276,16 @@
         },
         {
             "name": "padosoft/test",
-            "version": "0.2.1",
+            "version": "0.2.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/padosoft/test.git",
-                "reference": "f14d0b4199fab90edb95591b057242715a739e81"
+                "reference": "299b8cdab8623461fff308388e9bee8b92baebee"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/padosoft/test/zipball/f14d0b4199fab90edb95591b057242715a739e81",
-                "reference": "f14d0b4199fab90edb95591b057242715a739e81",
+                "url": "https://api.github.com/repos/padosoft/test/zipball/299b8cdab8623461fff308388e9bee8b92baebee",
+                "reference": "299b8cdab8623461fff308388e9bee8b92baebee",
                 "shasum": ""
             },
             "require": {
@@ -315,7 +315,7 @@
             "keywords": [
                 "test"
             ],
-            "time": "2016-08-28 16:22:34"
+            "time": "2016-08-28 16:53:20"
         },
         {
             "name": "phpdocumentor/reflection-common",
