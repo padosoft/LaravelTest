@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "padosoft/test": "^0.1"
+        "padosoft/test": "~0.1"
     },
     "autoload": {
 		"classmap": [
