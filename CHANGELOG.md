@@ -2,6 +2,10 @@
 
 All Notable changes to `laravel-test` will be documented in this file
 
+## 2.1.0 - 2022-04-05
+
+- Update composer.lock to Padosoft/test v2.1.0
+
 ## 2.0.1 - 2016-08-28
 
 - Update composer.lock to Padosoft/test v0.2.2
